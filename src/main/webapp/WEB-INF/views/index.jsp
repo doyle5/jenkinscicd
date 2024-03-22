@@ -2,7 +2,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>Tomcat server. Ansible test60</h2>
+    <h2>Tomcat server. Ansible test70</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>My name is Doyle</h1>
